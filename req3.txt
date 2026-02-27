@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-text-splitters
+faiss-cpu
+pypdf
+python-docx
+sentence-transformers
+python-dotenv
+docx2txt
+ollama
