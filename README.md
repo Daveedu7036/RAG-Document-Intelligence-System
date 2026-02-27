@@ -1,6 +1,17 @@
 # RAG-Document-Intelligence-System
 An AI-powered Multi-Document Question Answering System built using RAG architecture, FAISS vector search, HuggingFace embeddings, and LLaMA 3.1 via Groq, enabling context-aware and source-grounded responses from uploaded documents.
 
+---
+## 🌐 Live Deployment
+
+The application is deployed and accessible online:
+
+🔗 **Live App:** https://rag-document-intelligence-system-daveedu.streamlit.app/
+
+You can upload documents and test the AI-powered RAG system directly from the browser.
+
+---
+
 # 📄 Smart Document Assistant
 
 AI-powered **Document Question & Answer System** built using **RAG (Retrieval-Augmented Generation)** architecture.
